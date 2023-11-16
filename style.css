@@ -1,0 +1,182 @@
+ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: rgba(55, 57, 63, 1);
+    margin-top: 65px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+li{
+font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+}
+.home{
+    margin-left: 300px;
+    margin-top: 15px;
+}
+.menu{
+    margin: 15px;
+}
+.click{
+    width: 150px;
+    height: 50px;
+    background: rgba(107, 119, 229, 1);
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    transition: 1s;
+    margin-left: 30px;
+}
+.click:hover{
+    background-color: blue;
+    width: 140px;
+}
+/*--cont--*/
+
+.cont 
+{
+    width: 1220px;
+    height: 510px;
+    margin: 110px;
+    margin-top: 150px;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+      font-size: 15px;
+   }
+   .text1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+   }
+.content{
+    display: flex;
+    margin-top: 70px;
+}
+.card{
+    width: 386px;
+    height: 383px;
+    background-color: rgb(222, 226, 225);
+    margin: 10px;
+    box-shadow: 5px, 5px, 5px, cadetblue;
+}
+
+.circel{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(45, 221, 221);
+    border-radius:  50%;
+    margin: 150px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: none;
+}
+.circel2{
+    width: 80px;
+    height: 80px;
+    background: rgba(107, 119, 229, 1);
+    border-radius:  50%;
+    margin: 150px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: none;
+}
+.circel:hover{
+ 
+    width: 60px;
+    transform: scale(0.8);
+}
+.circel2:hover{
+    width: 60px;
+    transform: scale(0.8s);
+}
+.text2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px ;
+    font-size: 20px;
+}
+.text3{
+    text-align: center;
+    margin-top: 30px;
+   font-size: 17px;
+   color: gray;
+}
+.text4{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 20px;
+    color: blue;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.icon{
+  margin-left: 17px;
+  margin-top: 17px;
+}
+.icon1{
+    width: 45px;
+    height: 45px;
+    margin-left: 17px;
+    margin-top: 17px;
+   
+}
+/*--video--*/
+.video{
+    width: 1400px;
+    height: 557px;
+    margin: 20px;
+}
+.play{
+    margin-left: 60px;
+    margin-top: -80px;
+}
+.conteiner{
+    margin-top: -420px;
+    margin-right: 140px;
+}
+.circel3{
+    width: 80px;
+    height: 80px;
+    background: rgba(107, 119, 229, 1);
+    border-radius:  50%;
+    margin: 150px;
+    margin-top: 20px;
+    cursor: pointer;
+    border: none;
+    
+}
+/*--fotoebi--*/
+.cont1
+{
+    width: 1220px;
+    height: 659px;
+    margin: 110px;
+    margin-top: 290px;
+}
+.card1{
+    width: 386px;
+    height: 532px;
+    margin: 10px;
+}
+.name{
+   background-color: aquamarine;
+    width: 341px;
+    height: 114px;
+    text-align: center;
+    margin-left: 35px;
+    margin-top: -10px;
+}
+.text5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+      margin-top: -150px ;
+      font-size: 20px;
+  }
+  .text6{
+      text-align: center;
+      margin-top: 20px;
+     font-size: 17px;
+     color: rgb(65, 54, 54);
+  }
